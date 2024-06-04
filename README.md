@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fraygun.com%2Fblog%2Fpopular-javascript-frameworks%2F&psig=AOvVaw0NNehRv-tnW_GR0sX2EIn8&ust=1717595133115000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj4svCKwoYDFQAAAAAdAAAAABAJ
+![Alt text](https://raygun.com/blog/images/popular-javascript-frameworks/feature.png)
 <h1 align="center">Hi 👋, I'm Aysel Alakbarova</h1>
 <h3 align="center">Hi there! I'm Aysel Alakbarova, a frontend developer based in Azerbaijan. I love building responsive and interactive web applications using the latest technologies like HTML, CSS, JavaScript and React. Feel free to explore my work and reach out to collaborate on exciting projects!</h3>
 
