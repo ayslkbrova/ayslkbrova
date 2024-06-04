@@ -1,4 +1,3 @@
-![Alt text](https://external-preview.redd.it/hbNcCVBmRX70yh_h82auVr51ioC_j9qrTmgzjOWmNfA.jpg?auto=webp&s=320ef153c62af52986babf310523a9427b49d37d)
 <h1 align="center">Hi 👋, I'm Aysel Alakbarova</h1>
 <h3 align="center">Hi there! I'm Aysel Alakbarova, a frontend developer based in Azerbaijan. I love building responsive and interactive web applications using the latest technologies like HTML, CSS, JavaScript and React. Feel free to explore my work and reach out to collaborate on exciting projects!</h3>
 
