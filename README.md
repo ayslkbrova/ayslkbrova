@@ -6,8 +6,10 @@
 - 📫 How to reach me **aysellkbrova2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aysel-%c9%99l%c9%99kb%c9%99rova-29201a272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aysel-%c9%99l%c9%99kb%c9%99rova-29201a272/" height="30" width="40" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/aysel-alakbarova-29201a272/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aysel Alakbarova's LinkedIn Profile" height="30" width="40" />
+</a>
+
 <a href="https://medium.com/@aysellkbrova2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aysellkbrova2" height="30" width="40" /></a>
 </p>
 
